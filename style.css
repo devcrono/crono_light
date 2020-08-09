@@ -1,0 +1,166 @@
+html {
+ 
+    background:url("bg.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    color:#fff;font-family:sans-serif;
+    font-size:10px;
+     font-family: 'Roboto Condensed';
+
+ }
+
+ body {
+
+background-image: url('crono_.png');
+background-repeat: no-repeat;
+background-size: 200px;
+padding-top: auto;
+background-position-x: 98%;
+background-position-y: 15%;
+
+
+}
+
+.arrow {
+  width: 60px;
+  height: 45px;
+  top: 30px;
+  align-items: center;
+ 
+}
+#h1titulo{
+background-image: linear-gradient(225deg, #FF0000 0%, #45047F 50%, #2B86C5 100%);
+font-size:30px;
+text-align:center;
+background-size: 800px;
+background-repeat: no-repeat;
+background-position: center;
+font-family: 'Roboto Condensed';
+border-radius: 10px;
+
+}
+
+.h1lancer{
+background-image: linear-gradient(225deg, #FF0000 0%, #45047F 50%, #2B86C5 100%);
+font-size:35px;
+text-align:center;
+ background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: 'Roboto Condensed';
+  border-radius: 10px;
+}
+
+#Botao{
+background-image: linear-gradient(225deg, #2B86C5  0%, #45047F 50%, #FF0000 100%);  
+height: auto;
+ width: auto;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 20px;
+  font-family: "Roboto";
+  position: relative;
+  transition: 1s;
+  cursor: pointer;
+  top: -3px;
+  text-align: center;
+  border-width: 3px;
+  border-color: #000;  
+
+}
+
+#Botao:hover {
+  background-image: linear-gradient(225deg, #FF0000  0%, #45047F 50%, #2B86C5 100%);
+  color: #fff;
+  border-width: 3px;
+  border-color: #FFF;  
+}
+
+
+
+#botaoManual{
+background-image: linear-gradient(225deg, #2B86C5  0%, #45047F 50%, #FF0000 100%);  
+height: auto;
+ width: auto;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 20px;
+  font-family: "Roboto";
+  position: relative;
+  transition: 1s;
+  cursor: pointer;
+  top: -3px;
+  text-align: center;
+  border-width: 3px;
+  border-color: #000; 
+
+}
+
+#botaoManual:hover {
+   background-image: linear-gradient(225deg, #FF0000  0%, #45047F 50%, #2B86C5 100%);
+  color: #fff;
+  border-width: 3px;
+  border-color: #FFF;  
+
+}
+
+
+#botaoBeta:hover {
+  background-image: linear-gradient(225deg, #FF0000  0%, #45047F 50%, #2B86C5 100%);
+  color: #fff;
+  border-width: 3px;
+  border-color: #FFF;  
+}
+
+#botaoBeta{
+background-image: linear-gradient(225deg, #2B86C5  0%, #45047F 50%, #FF0000 100%);  
+height: auto;
+ width: auto;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 20px;
+  font-family: "Roboto";
+  position: relative;
+  transition: 1s;
+  cursor: pointer;
+  top: -3px;
+  text-align: center;
+  border-width: 3px;
+  border-color: #000; 
+}
+
+
+
+#Botaopayloads{
+background-image: linear-gradient(225deg, #2B86C5  0%, #45047F 50%, #FF0000 100%);  
+height: auto;
+ width: 311px;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 20px;
+  font-family: "Roboto";
+  position: relative;
+  transition: 1s;
+  cursor: pointer;
+  top: -3px;
+  text-align: center;
+  border-width: 3px;
+  border-color: #000; 
+
+}
+#Botaopayloads:hover {
+  background-image: linear-gradient(225deg, #FF0000  0%, #45047F 50%, #2B86C5 100%);
+  color: #fff;
+  border-width: 3px;
+  border-color: #FFF;  
+}
+
+#table2 {
+  width: 100%;
+  margin-left: 80%;
+  margin-right: 80%;
+  padding-top: 70%;
+  border-spacing: 5px;
+
+}
+

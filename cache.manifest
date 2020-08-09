@@ -1,0 +1,29 @@
+CACHE MANIFEST 
+# v4.0 
+# 08/08/2020-11:00:57.44 
+
+index.html
+bg.jpg
+crono_.png
+style.css
+setaFrente.gif
+
+exp_common.js
+exp_jailbreak.js
+exp_loader.js
+pl_app2usb.js
+pl_dbBackup.js
+pl_dbRestore.js
+pl_dumper.js
+pl_fanthresh.js
+pl_ftp.js
+pl_HEN.js
+pl_historyBlocker.js
+pl_kernelDumper.js
+pl_linux.js
+pl_mira.js
+pl_mira_unofficial.js
+pl_ToDEX.js
+pl_updatesDisable.js
+pl_updatesEnable.js
+pl_WebRTE.js
